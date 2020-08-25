@@ -10,6 +10,7 @@
 
 ## 数字票卡类 <a id="he-yan"></a>
 
+* [数字票卡描述](he-yan/shu-zi-piao-ka-miao-shu.md)
 * [定义核销项](he-yan/he-xiao-xiang-guan-li.md)
 * [定义核销权限（授权码）](he-yan/he-xiao-quan-xian-guan-li.md)
 * [商家聚合](he-yan/shang-jia-ju-he.md)
