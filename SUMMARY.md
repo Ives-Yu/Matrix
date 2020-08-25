@@ -23,11 +23,3 @@
 * [一码一领](ying-xiao-fu-wu/yi-ma-yi-ling.md)
 * [抽奖](ying-xiao-fu-wu/chou-jiang.md)
 
-## 一物一码
-
-* [Untitled](yi-wu-yi-ma/untitled.md)
-
-## 财务管理
-
-* [Untitled](cai-wu-guan-li/untitled.md)
-
