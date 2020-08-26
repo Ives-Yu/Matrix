@@ -10,7 +10,6 @@
 
 ## 数字票卡类 <a id="he-yan"></a>
 
-* [数字票卡描述](he-yan/shu-zi-piao-ka-miao-shu.md)
 * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/README.md)
   * [定义核销项](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li.md)
   * [定义票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/ding-yi-piao-ka.md)
