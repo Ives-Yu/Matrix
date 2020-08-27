@@ -22,7 +22,9 @@
 
 ## 营销服务
 
-* [扫码领券](ying-xiao-fu-wu/sao-ma-ling-quan.md)
+* [扫码领券](ying-xiao-fu-wu/sao-ma-ling-quan/README.md)
+  * [创建扫码领券](ying-xiao-fu-wu/sao-ma-ling-quan/chuang-jian-sao-ma-ling-quan.md)
+  * [扫码领券的使用](ying-xiao-fu-wu/sao-ma-ling-quan/sao-ma-ling-quan-de-shi-yong.md)
 * [一码一领](ying-xiao-fu-wu/yi-ma-yi-ling.md)
 * [抽奖](ying-xiao-fu-wu/chou-jiang.md)
 
