@@ -18,6 +18,7 @@
 * [票卡的核销](he-yan/piao-ka-de-shi-yong/README.md)
   * [商家聚合](he-yan/piao-ka-de-shi-yong/shang-jia-ju-he.md)
   * [定义核销权限（授权码）](he-yan/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
+  * [核销记录](he-yan/piao-ka-de-shi-yong/he-xiao-ji-lu.md)
 
 ## 营销服务
 
