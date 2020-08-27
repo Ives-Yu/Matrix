@@ -12,7 +12,7 @@
 
 * [数字票卡的描述](he-yan/shu-zi-piao-ka-de-miao-shu.md)
 * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/README.md)
-  * [定义核销项](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li.md)
+  * [核销项管理](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li.md)
   * [定义票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/ding-yi-piao-ka.md)
   * [发行票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
 * [票卡的核销](he-yan/piao-ka-de-shi-yong/README.md)
