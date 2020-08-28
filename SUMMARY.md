@@ -12,7 +12,7 @@
 
 * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/README.md)
   * [核销项管理](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li-1.md)
-  * [发行票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
+  * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
 * [票卡的核销](he-yan/piao-ka-de-shi-yong/README.md)
   * [商家聚合](he-yan/piao-ka-de-shi-yong/shang-jia-ju-he.md)
   * [物影商家助手](he-yan/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
