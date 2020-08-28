@@ -10,16 +10,13 @@
 
 ## 数字票卡类 <a id="he-yan"></a>
 
-* [数字票卡的描述](he-yan/shu-zi-piao-ka-de-miao-shu.md)
 * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/README.md)
   * [核销项管理](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li-1.md)
-  * [定义核销项](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li.md)
   * [定义票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/ding-yi-piao-ka.md)
   * [发行票卡](he-yan/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
 * [票卡的核销](he-yan/piao-ka-de-shi-yong/README.md)
   * [商家聚合](he-yan/piao-ka-de-shi-yong/shang-jia-ju-he.md)
-  * [定义核销权限（授权码）](he-yan/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
-  * [核销记录](he-yan/piao-ka-de-shi-yong/he-xiao-ji-lu.md)
+  * [物影商家助手](he-yan/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
 
 ## 营销服务
 
