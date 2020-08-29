@@ -2,39 +2,39 @@
 
 * [Matrix数字工厂用户手册](README.md)
 
-## 实物商品类 <a id="ding-yi-he-fa-hang-shang-pin"></a>
+## 实物商品类 <a id="commodity"></a>
 
-* [定义提货券](ding-yi-he-fa-hang-shang-pin/coupon.md)
-* [发行商品](ding-yi-he-fa-hang-shang-pin/issuecoupon.md)
-* [发货](ding-yi-he-fa-hang-shang-pin/delivergoods.md)
+* [定义提货券](commodity/coupon.md)
+* [发行商品](commodity/issue.md)
+* [发货](commodity/delivergoods.md)
 
-## 数字票卡类 <a id="shuzipiaoka-lei"></a>
+## 数字票卡类 <a id="ticketcard"></a>
 
-* [票卡的定义与发行](shuzipiaoka-lei/ticketcard/README.md)
-  * [核销项管理](shuzipiaoka-lei/ticketcard/ticketcard.md)
-  * [票卡的定义与发行](shuzipiaoka-lei/ticketcard/fa-hang-piao-ka.md)
-* [票卡的核销](shuzipiaoka-lei/piao-ka-de-shi-yong/README.md)
-  * [商家聚合](shuzipiaoka-lei/piao-ka-de-shi-yong/shang-jia-ju-he.md)
-  * [物影商家助手](shuzipiaoka-lei/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
+* [票卡的定义与发行](ticketcard/issue/README.md)
+  * [核销项管理](ticketcard/issue/ticketcard.md)
+  * [票卡的定义与发行](ticketcard/issue/fa-hang-piao-ka.md)
+* [票卡的核销](ticketcard/pin/README.md)
+  * [商家聚合](ticketcard/pin/shang-jia-ju-he.md)
+  * [物影商家助手](ticketcard/pin/he-xiao-quan-xian-guan-li.md)
 
-## 营销服务
+## 营销服务 <a id="marketing"></a>
 
-* [扫码领取](ying-xiao-fu-wu/sao-ma-ling-qu.md)
-* [一码一领](ying-xiao-fu-wu/yi-ma-yi-ling.md)
-* [抽奖](ying-xiao-fu-wu/chou-jiang.md)
+* [扫码领取](marketing/scan-code.md)
+* [一码一领](marketing/ayard.md)
+* [抽奖](marketing/luck-draw.md)
 
-## 一物一码
+## 一物一码 <a id="onething"></a>
 
-* [申请码](yi-wu-yi-ma/shen-qing-ma.md)
-* [管理码](yi-wu-yi-ma/guan-li-ma.md)
-* [扩展功能](yi-wu-yi-ma/kuo-zhan-gong-neng.md)
-* [销售商管理](yi-wu-yi-ma/xiao-shou-shang-guan-li.md)
+* [申请码](onething/apply.md)
+* [管理码](onething/administration.md)
+* [扩展功能](onething/extend.md)
+* [销售商管理](onething/sale.md)
 
-## 财务管理
+## 财务管理 <a id="finance"></a>
 
-* [财务管理](cai-wu-guan-li/cai-wu-guan-li.md)
+* [财务管理](finance/administration.md)
 
-## 授权经销商
+## 授权经销商 <a id="empower"></a>
 
-* [授权经销商](shou-quan-jing-xiao-shang/shou-quan-jing-xiao-shang.md)
+* [授权经销商](empower/distributor.md)
 
