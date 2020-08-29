@@ -12,10 +12,10 @@
 
 * [票卡的定义与发行](ticketcard/issue/README.md)
   * [核销项管理](ticketcard/issue/ticketcard.md)
-  * [票卡的定义与发行](ticketcard/issue/fa-hang-piao-ka.md)
+  * [票卡的定义与发行](ticketcard/issue/issue.md)
 * [票卡的核销](ticketcard/pin/README.md)
-  * [商家聚合](ticketcard/pin/shang-jia-ju-he.md)
-  * [物影商家助手](ticketcard/pin/he-xiao-quan-xian-guan-li.md)
+  * [商家聚合](ticketcard/pin/polymerization.md)
+  * [物影商家助手](ticketcard/pin/assistant.md)
 
 ## 营销服务 <a id="marketing"></a>
 
