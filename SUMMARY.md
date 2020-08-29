@@ -4,15 +4,15 @@
 
 ## 实物商品类 <a id="ding-yi-he-fa-hang-shang-pin"></a>
 
-* [定义提货券](ding-yi-he-fa-hang-shang-pin/ding-yi-ti-huo-quan.md)
-* [发行商品](ding-yi-he-fa-hang-shang-pin/fa-hang-shang-pin.md)
-* [发货](ding-yi-he-fa-hang-shang-pin/fa-huo.md)
+* [定义提货券](ding-yi-he-fa-hang-shang-pin/coupon.md)
+* [发行商品](ding-yi-he-fa-hang-shang-pin/issuecoupon.md)
+* [发货](ding-yi-he-fa-hang-shang-pin/delivergoods.md)
 
 ## 数字票卡类 <a id="shuzipiaoka-lei"></a>
 
-* [票卡的定义与发行](shuzipiaoka-lei/piao-ka-de-ding-yi-yu-fa-hang/README.md)
-  * [核销项管理](shuzipiaoka-lei/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li-1.md)
-  * [票卡的定义与发行](shuzipiaoka-lei/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
+* [票卡的定义与发行](shuzipiaoka-lei/ticketcard/README.md)
+  * [核销项管理](shuzipiaoka-lei/ticketcard/ticketcard.md)
+  * [票卡的定义与发行](shuzipiaoka-lei/ticketcard/fa-hang-piao-ka.md)
 * [票卡的核销](shuzipiaoka-lei/piao-ka-de-shi-yong/README.md)
   * [商家聚合](shuzipiaoka-lei/piao-ka-de-shi-yong/shang-jia-ju-he.md)
   * [物影商家助手](shuzipiaoka-lei/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
