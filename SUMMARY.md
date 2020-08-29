@@ -34,3 +34,7 @@
 
 * [财务管理](cai-wu-guan-li/cai-wu-guan-li.md)
 
+## 授权经销商
+
+* [授权经销商](shou-quan-jing-xiao-shang/shou-quan-jing-xiao-shang.md)
+
