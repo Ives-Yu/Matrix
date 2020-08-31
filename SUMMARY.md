@@ -40,5 +40,5 @@
 
 ---
 
-* [凭证钱包](ping-zheng-qian-bao.md)
+* [凭证钱包](wallet.md)
 
