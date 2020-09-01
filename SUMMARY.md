@@ -2,43 +2,35 @@
 
 * [Matrix数字工厂用户手册](README.md)
 
-## 实物商品类 <a id="commodity"></a>
+## 发行商
 
-* [定义提货券](commodity/coupon.md)
-* [发行商品](commodity/issue.md)
-* [发货](commodity/delivergoods.md)
+* [实物商品类](fa-hang-shang/shi-wu-shang-pin-lei/README.md)
+  * [定义提货券](fa-hang-shang/shi-wu-shang-pin-lei/coupon.md)
+  * [发货](fa-hang-shang/shi-wu-shang-pin-lei/fa-huo.md)
+* [虚拟票卡类](fa-hang-shang/xu-ni-piao-ka-lei/README.md)
+  * [核销项管理](fa-hang-shang/xu-ni-piao-ka-lei/ticketcard.md)
+  * [票卡的定义与发行](fa-hang-shang/xu-ni-piao-ka-lei/issue-1.md)
+  * [票卡的核销](fa-hang-shang/xu-ni-piao-ka-lei/pin.md)
+  * [物影商家助手](fa-hang-shang/xu-ni-piao-ka-lei/assistant.md)
+  * [商家聚合](fa-hang-shang/xu-ni-piao-ka-lei/polymerization.md)
+* [防伪码（一物一码）](fa-hang-shang/fang-wei-ma-yi-wu-yi-ma/README.md)
+  * [申请码](fa-hang-shang/fang-wei-ma-yi-wu-yi-ma/apply.md)
+  * [管理码](fa-hang-shang/fang-wei-ma-yi-wu-yi-ma/administration.md)
+  * [扩展功能](fa-hang-shang/fang-wei-ma-yi-wu-yi-ma/extend.md)
+  * [销售商管理](fa-hang-shang/fang-wei-ma-yi-wu-yi-ma/sale.md)
+* [营销与活动](fa-hang-shang/ying-xiao-yu-huo-dong/README.md)
+  * [抽奖](fa-hang-shang/ying-xiao-yu-huo-dong/luck-draw.md)
+  * [一码一领](fa-hang-shang/ying-xiao-yu-huo-dong/ayard.md)
+  * [扫码领取](fa-hang-shang/ying-xiao-yu-huo-dong/scan-code.md)
+* [凭证钱包](fa-hang-shang/ping-zheng-qian-bao.md)
+* [财务管理](fa-hang-shang/cai-wu-guan-li.md)
 
-## 数字票卡类 <a id="ticketcard"></a>
+## 企业设置
 
-* [票卡的定义与发行](ticketcard/issue/README.md)
-  * [核销项管理](ticketcard/issue/ticketcard.md)
-  * [票卡的定义与发行](ticketcard/issue/issue.md)
-* [票卡的核销](ticketcard/pin/README.md)
-  * [商家聚合](ticketcard/pin/polymerization.md)
-  * [物影商家助手](ticketcard/pin/assistant.md)
+* [企业认证](qi-ye-she-zhi/qi-ye-ren-zheng.md)
+* [企业信息](qi-ye-she-zhi/qi-ye-xin-xi.md)
 
-## 营销服务 <a id="marketing"></a>
+## 授权经销商
 
-* [扫码领取](marketing/scan-code.md)
-* [一码一领](marketing/ayard.md)
-* [抽奖](marketing/luck-draw.md)
-
-## 一物一码 <a id="onething"></a>
-
-* [申请码](onething/apply.md)
-* [管理码](onething/administration.md)
-* [扩展功能](onething/extend.md)
-* [销售商管理](onething/sale.md)
-
-## 财务管理 <a id="finance"></a>
-
-* [财务管理](finance/administration.md)
-
-## 授权经销商 <a id="empower"></a>
-
-* [授权经销商](empower/distributor.md)
-
----
-
-* [凭证钱包](wallet.md)
+* [授权经销商](shou-quan-jing-xiao-shang/distributor.md)
 
