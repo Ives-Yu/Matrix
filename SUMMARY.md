@@ -7,7 +7,8 @@
 
 * [实物商品类（提货券）](c3/c3-1/README.md)
   * [定义提货券](c3/c3-1/c3-1-1.md)
-  * [发货](c3/c3-1/fa-huo.md)
+* [发货](c3/delivergoods/README.md)
+  * [发货](c3/delivergoods/fa-huo.md)
 * [虚拟票卡类（票卡）](c3/c3-2/README.md)
   * [核销项管理](c3/c3-2/c3-2-1.md)
   * [票卡的定义与发行](c3/c3-2/c3-2-2.md)
